@@ -1,0 +1,22 @@
+{
+  "name": "news-app-nextjs",
+  "version": "1.0.0",
+  "description": "a news app with NextJS",
+  "main": "news.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Natalia Maria",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "express": "^4.16.4",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "semantic-ui-react": "^0.88.2"
+  }
+}

@@ -1,0 +1,21 @@
+.my-nav {
+  background: gainsboro;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+}
+
+.my-nav a {
+  padding: 0.5rem;
+}
+
+.content {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+}
+
+.title-page {
+  text-align: center;
+  justify-content: center;
+}
